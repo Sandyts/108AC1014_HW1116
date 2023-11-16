@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\desktop\108ac1014_hw1116\p25\p25\source.cpp(6): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  p25.vcxproj -> C:\Users\USER\Desktop\108AC1014_HW1116\p25\Debug\p25.exe
